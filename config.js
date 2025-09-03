@@ -41,7 +41,7 @@ var config = {
     desc: {
         turn_on: "點點我",
         play: "音樂",
-        bannar_coming: "顏色",
+        bannar_coming: "彩帶",
         balloons_flying: "好像少了點東西",
         cake_fadein: "蛋糕？",
         light_candle: "蠟燭？",
